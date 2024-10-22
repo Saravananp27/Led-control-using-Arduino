@@ -58,7 +58,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-[exp1 proteus design.pdf](https://github.com/user-attachments/files/17474769/exp1.proteus.design.pdf)
+![Screenshot 2024-10-22 184535](https://github.com/user-attachments/assets/65bc66ba-91ae-4e9b-bb93-847bd9539cb5)
+
 
 ## PROGRAM
 ![Screenshot 2024-10-22 183447](https://github.com/user-attachments/assets/ada1947b-de32-454e-94c4-336c3aa29b8d)

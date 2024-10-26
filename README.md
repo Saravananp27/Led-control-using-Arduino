@@ -70,7 +70,7 @@ Weighing Machines </br>
 
 ## OUTPUT
 <img src="https://github.com/user-attachments/assets/a023720c-2683-4f43-8a1f-4720a7d5d26a" width="600" heght="500" />
-<img src="(https://github.com/user-attachments/assets/9eb6be86-83de-499d-ba13-efd87437e125" width="600" heght="500" />
+<img src="https://github.com/user-attachments/assets/9eb6be86-83de-499d-ba13-efd87437e125" width="600" heght="500" />
 
 
 

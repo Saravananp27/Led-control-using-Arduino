@@ -1,7 +1,7 @@
 ### NAME:SARAVANAN P
 ### REF NO:24900878
 
-# Led-control-using-Arduino
+### EXPERIMENT 1 - Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -61,14 +61,17 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![Screenshot 2024-10-22 184535](https://github.com/user-attachments/assets/65bc66ba-91ae-4e9b-bb93-847bd9539cb5)
+![f4d59581-2563-49c2-a033-f925b902e639](https://github.com/user-attachments/assets/f147013e-3c5d-436c-b2a8-4ea8a41e2099)
 
 
 ## PROGRAM
-![Screenshot 2024-10-22 183447](https://github.com/user-attachments/assets/ada1947b-de32-454e-94c4-336c3aa29b8d)
+![ab08147f-b235-4411-804a-f52e7ad3c769](https://github.com/user-attachments/assets/965e731f-e07e-46b5-be43-ef93a47be1a4)
+
 
 ## OUTPUT
-![Screenshot 2024-10-22 183813](https://github.com/user-attachments/assets/a23521aa-38d3-47b8-902f-a44d25c52f7d)
-![Screenshot 2024-10-22 183844](https://github.com/user-attachments/assets/f622a9f9-d3bd-4c9e-bb66-e21b67565e50)
+![0b4e4527-bc76-4110-a9b1-9bbd2d54a2e4](https://github.com/user-attachments/assets/a023720c-2683-4f43-8a1f-4720a7d5d26a)
+![261184d1-aacd-4b18-a373-cc5eb89babdd](https://github.com/user-attachments/assets/9eb6be86-83de-499d-ba13-efd87437e125)
+
+
 
 ## RESULT

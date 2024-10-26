@@ -61,17 +61,18 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![f4d59581-2563-49c2-a033-f925b902e639](https://github.com/user-attachments/assets/f147013e-3c5d-436c-b2a8-4ea8a41e2099)
+<imd src="https://github.com/user-attachments/assets/f147013e-3c5d-436c-b2a8-4ea8a41e2099" width="400" heght="500" />
 
 
 ## PROGRAM
-![ab08147f-b235-4411-804a-f52e7ad3c769](https://github.com/user-attachments/assets/965e731f-e07e-46b5-be43-ef93a47be1a4)
+<imd src="https://github.com/user-attachments/assets/965e731f-e07e-46b5-be43-ef93a47be1a4" width="400" heght="500" />
 
 
 ## OUTPUT
-![0b4e4527-bc76-4110-a9b1-9bbd2d54a2e4](https://github.com/user-attachments/assets/a023720c-2683-4f43-8a1f-4720a7d5d26a)
-![261184d1-aacd-4b18-a373-cc5eb89babdd](https://github.com/user-attachments/assets/9eb6be86-83de-499d-ba13-efd87437e125)
+<imd src="https://github.com/user-attachments/assets/a023720c-2683-4f43-8a1f-4720a7d5d26a" width="400" heght="500" />
+<imd src="(https://github.com/user-attachments/assets/9eb6be86-83de-499d-ba13-efd87437e125" width="400" heght="500" />
 
 
 
 ## RESULT
+ Design and implemented a system for LED control using an Arduino microcontroller and a push button.
